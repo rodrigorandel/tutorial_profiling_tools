@@ -19,7 +19,7 @@
     - Introduction to the main concepts and information that can be obtained
 2. Present two of the most well-known profiling tools:
     - **Valgrind** for *C/C++* 
-      - Important note: this tutorial was presented at GERAD and all details, including the presentation file and examples' source codes, can be found on [https://github.com/rodrigorandel/introduction_to_valgrind] (https://github.com/rodrigorandel/introduction_to_valgrind) 
+      - Important note: this tutorial was presented at GERAD and all details, including the presentation file and examples' source codes, can be found on https://github.com/rodrigorandel/introduction_to_valgrind
     - **profile and cProfile** for *Python*
 3. Good practices to execute and interpret a profiling tool
 4. Profiling for a distributed system and parallel programming
